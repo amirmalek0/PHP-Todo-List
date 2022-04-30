@@ -1,0 +1,69 @@
+body{
+    padding:50px;
+}
+.pd-20{
+    padding:20px;
+}
+.todo h1{
+    margin-bottom: 30px;
+}
+.actions{
+    float: right;
+}
+.actions i {
+    color: #fff;
+    padding: 5px;
+}
+.actions a {
+    text-decoration: none;
+}
+.empty-data{
+    margin-top: 70px;
+    color: #ccc;
+}
+.empty-data h2 {
+    text-align: center;
+}
+.empty-data i {
+    text-align: center;
+    display: block;
+}
+.dbok {
+    background-color: #2E7D32;
+    padding: 20px;
+    border-radius: 20px;
+}
+.dbok h1 {
+    text-align: center;
+    color : #FFF;
+}
+.dbok i {
+    text-align: center;
+    display: block;
+    font-size: 15rem;
+    color: #fff;
+}
+.dbnok {
+    background-color: #D32F2F;
+    padding: 20px;
+    border-radius: 20px;
+}
+.dbnok h1 {
+    text-align: center;
+    color : #FFF;
+}
+.dbnok p {
+    text-align: center;
+    color : #FFF;
+}
+.dbnok i {
+    text-align: center;
+    display: block;
+    font-size: 15rem;
+    color: #fff;
+}
+.github{
+    position: fixed;
+    left: 2%;
+    bottom: 2%;
+}
