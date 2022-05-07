@@ -12,9 +12,9 @@
                     </div>
                     <div class="col-md-3">
                         <div class="actions">
-                            <a href="<?php echo SITEURL ?>/delete.php/?id=<?php echo $row['id'] ?>" title="Delete"><i
+                            <a href="<?php echo SITEURL ?>/delete.php?id=<?php echo $row['id'] ?>" title="Delete"><i
                                     class="fa-solid fa-trash-can-check"></i> </a>
-                            <a href="<?php echo SITEURL ?>/edit.php/?id=<?php echo $row['id'] ?>" title="Edit"><i
+                            <a href="<?php echo SITEURL ?>/edit.php?id=<?php echo $row['id'] ?>" title="Edit"><i
                                     class="fa-solid fa-pen-to-square"></i> </a>
                         </div>
 
